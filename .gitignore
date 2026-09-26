@@ -1,0 +1,30 @@
+.env
+.venv
+__pycache__/
+venv/
+*.pyc
+.faiss
+.chroma/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+*.env
